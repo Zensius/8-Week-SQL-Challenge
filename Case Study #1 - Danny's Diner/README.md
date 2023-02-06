@@ -70,7 +70,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
       ('B', '2021-01-09');
 ```
 
-[<img src="images/w1ERD.png" alt="missing">]
+<img src="images/w1ERD.png" alt="missing">
 
 ---
 
