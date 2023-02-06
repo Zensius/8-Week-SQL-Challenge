@@ -1,2 +1,2 @@
 # 8-Week-SQL-Challenge
-### [Cosmology Research Project](/Case Study #1 - Danny's Diner)
+### [Week 1](/8-Week-SQL-Challenge/Case Study #1 - Danny's Diner)
